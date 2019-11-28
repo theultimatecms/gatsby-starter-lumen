@@ -1,4 +1,10 @@
 ---
 label: kjgh
 hide_body: false
-fields: []
+fields:
+- name: dafa
+  type: text
+  config:
+    required: false
+  label: daf
+  description: asdf
